@@ -1,0 +1,85 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+site_url: https://presleyfinearts.com
+display_url: https://presleyfinearts.com
+logo_url: https://presleyfinearts.com
+
+collections:
+  - name: "site_content"
+    label: "Website Content"
+    files:
+      - label: "Gallery, Artists, and Catalogue"
+        name: "data"
+        file: "content/data.json"
+        format: "json"
+        fields:
+          - label: "Gallery Info"
+            name: "gallery"
+            widget: "object"
+            fields:
+              - { label: "Gallery Name", name: "name", widget: "string" }
+              - { label: "Venue", name: "venue", widget: "string", required: false }
+              - { label: "Address", name: "address", widget: "string", required: false }
+              - { label: "City / ZIP", name: "city", widget: "string", required: false }
+              - { label: "Hours", name: "hours", widget: "string", required: false }
+              - { label: "Email", name: "email", widget: "string", required: false }
+              - { label: "Phone", name: "phone", widget: "string", required: false }
+              - { label: "Instagram", name: "instagram", widget: "string", required: false }
+          - label: "Artists"
+            name: "artists"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "URL Slug", name: "slug", widget: "string", hint: "Example: jane-doe" }
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Born", name: "born", widget: "string", required: false }
+              - { label: "Based", name: "based", widget: "string", required: false }
+              - { label: "Discipline", name: "discipline", widget: "string", required: false }
+              - { label: "Featured on Homepage", name: "featured", widget: "boolean", default: false, required: false }
+              - { label: "Portrait Seed", name: "portraitSeed", widget: "string", required: false, hint: "Used for generated placeholder portrait unless you later add real image support." }
+              - { label: "Catalogue ID", name: "catalogue", widget: "string", required: false, hint: "Must match a Catalogue ID below." }
+              - label: "Current Exhibition"
+                name: "currentShow"
+                widget: "object"
+                required: false
+                fields:
+                  - { label: "Title", name: "title", widget: "string", required: false }
+                  - { label: "Dates", name: "dates", widget: "string", required: false }
+                  - { label: "Status", name: "status", widget: "string", required: false, hint: "Example: Now on view or Upcoming" }
+              - label: "Biography Paragraphs"
+                name: "bio"
+                widget: "list"
+                field: { label: "Paragraph", name: "paragraph", widget: "text" }
+              - label: "Works"
+                name: "works"
+                widget: "list"
+                summary: "{{fields.title}}, {{fields.year}}"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Year", name: "year", widget: "number", value_type: "int", required: false }
+                  - { label: "Medium", name: "medium", widget: "string", required: false }
+                  - { label: "Dimensions", name: "dim", widget: "string", required: false }
+                  - { label: "Artwork Seed", name: "seed", widget: "string", required: false }
+          - label: "Catalogues"
+            name: "catalogues"
+            widget: "list"
+            summary: "{{fields.title}} — {{fields.artist}}"
+            fields:
+              - { label: "Catalogue ID", name: "id", widget: "string", hint: "Example: afterlight" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Artist", name: "artist", widget: "string" }
+              - { label: "Year", name: "year", widget: "number", value_type: "int", required: false }
+              - { label: "Essay By", name: "essay", widget: "string", required: false }
+              - { label: "Pages", name: "pages", widget: "number", value_type: "int", required: false }
+              - { label: "Cover", name: "cover", widget: "string", required: false }
+              - { label: "Dimensions", name: "dimensions", widget: "string", required: false }
+              - { label: "Edition", name: "edition", widget: "string", required: false }
+              - { label: "Price", name: "price", widget: "string", required: false }
+              - { label: "Book Cover Seed", name: "seed", widget: "string", required: false }
+              - { label: "Dark Cover", name: "dark", widget: "boolean", default: false, required: false }
+              - { label: "Description", name: "description", widget: "text", required: false }

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact &amp; Visit — Presley Fine Arts</title>
+  <meta name="description" content="Contact Presley Fine Arts and plan your visit to The Grand Bedford, 165 Bedford Ave, Brooklyn, NY 11211." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@300;400;500;600&family=Caveat:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body data-page="contact">
+
+  <header class="site-header">
+    <nav class="wrap nav" aria-label="Primary">
+      <a class="brand-mark" href="index.html" aria-label="Presley Fine Arts home"><span class="monogram">PFA</span></a>
+      <button class="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a data-nav="exhibitions" href="index.html#now-on-view">Exhibitions</a>
+        <a data-nav="artists" href="artists.html">Artists</a>
+        <a data-nav="catalogue" href="catalogue.html">Catalogue</a>
+        <a data-nav="about" href="index.html#about">About</a>
+        <a data-nav="contact" href="contact.html">Contact</a>
+      </div>
+      <div class="nav-right">
+        <span class="nav-addr">165 Bedford Ave, Brooklyn</span>
+        <a class="nav-cta" href="contact.html#visit">Plan Your Visit</a>
+      </div>
+    </nav>
+  </header>
+
+  <section class="section page-head">
+    <div class="wrap">
+      <span class="eyebrow">Say Hello</span>
+      <h1 class="page-head__title display">Contact</h1>
+      <p class="page-head__sub">For exhibition inquiries, available works, press, and studio visits — we would love to hear from you. A space for contemporary art, conversation, and connection.</p>
+    </div>
+  </section>
+
+  <hr class="rule" />
+
+  <section class="section">
+    <div class="wrap contact-grid">
+      <!-- left: details + visit -->
+      <div data-reveal>
+        <div class="contact-block" id="visit">
+          <h3>Visit Us</h3>
+          <p>The Grand Bedford<br />165 Bedford Ave<br />Brooklyn, NY 11211</p>
+        </div>
+        <div class="contact-block">
+          <h3>Hours</h3>
+          <p>Wednesday — Sunday, 11am — 6pm<br />and by appointment</p>
+        </div>
+        <div class="contact-block">
+          <h3>Get in Touch</h3>
+          <p>
+            <a class="inline" href="mailto:info@presleyfinearts.com">info@presleyfinearts.com</a><br />
+            +1 718 555 0110<br />
+            <a class="inline" href="https://instagram.com" target="_blank" rel="noopener">@presleyfinearts</a>
+          </p>
+        </div>
+        <div class="map" data-art="map" data-w="520" data-h="320" style="margin-top:8px"></div>
+      </div>
+
+      <!-- right: form -->
+      <div data-reveal>
+        <form class="form" id="contact-form" novalidate>
+          <div class="field">
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" required />
+          </div>
+          <div class="field">
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" required />
+          </div>
+          <div class="field">
+            <label for="subject">Subject</label>
+            <select id="subject" name="subject">
+              <option>General inquiry</option>
+              <option>Available works</option>
+              <option>Press</option>
+              <option>Studio visit</option>
+              <option>Catalogue order</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" required></textarea>
+          </div>
+          <button class="btn btn--solid" type="submit">Send Message <span class="arw">&rarr;</span></button>
+          <p class="form__note">We typically respond within two business days.</p>
+          <div class="form-success" id="contact-success">Thank you — your message has been received. We&rsquo;ll be in touch soon.</div>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- newsletter -->
+  <section class="newsletter section" id="newsletter">
+    <div class="wrap newsletter__inner">
+      <div data-reveal><h2>Stay connected.</h2></div>
+      <div data-reveal>
+        <p>Join our mailing list for exhibition news, artist studio visits, and events in Brooklyn.</p>
+        <form data-newsletter>
+          <input type="email" placeholder="your email address" aria-label="Email address" required />
+          <button type="submit">Join</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div class="footer-copy">© 2024 Presley Fine Arts</div>
+      <nav class="footer-nav" aria-label="Footer">
+        <a href="https://instagram.com" target="_blank" rel="noopener">Instagram</a>
+        <a href="contact.html#newsletter">Email Signup</a>
+        <a href="contact.html">Press</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <div class="footer-tag">Open to the world.</div>
+    </div>
+    <span class="footer-swatch" aria-hidden="true"></span>
+  </footer>
+
+  <script src="js/art.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
