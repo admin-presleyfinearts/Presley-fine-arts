@@ -11,59 +11,15 @@
   },
   "artists": [
     {
-      "works": [
-        {
-          "title": "Afterlight I",
-          "year": 2024,
-          "medium": "Oil and cold wax on linen",
-          "dim": "60 × 48 in",
-          "seed": "w-maria-1"
-        },
-        {
-          "title": "Threshold",
-          "year": 2024,
-          "medium": "Oil on linen",
-          "dim": "48 × 40 in",
-          "seed": "w-maria-2"
-        },
-        {
-          "title": "Slow Room",
-          "year": 2023,
-          "medium": "Oil and cold wax on panel",
-          "dim": "36 × 36 in",
-          "seed": "w-maria-3"
-        },
-        {
-          "title": "Evening Index",
-          "year": 2023,
-          "medium": "Oil on linen",
-          "dim": "54 × 44 in",
-          "seed": "w-maria-4"
-        },
-        {
-          "title": "Residue (Blue)",
-          "year": 2024,
-          "medium": "Oil and pigment on panel",
-          "dim": "30 × 24 in",
-          "seed": "w-maria-5"
-        },
-        {
-          "title": "Afterlight VII",
-          "year": 2024,
-          "medium": "Oil and cold wax on linen",
-          "dim": "72 × 60 in",
-          "seed": "w-maria-6"
-        }
-      ],
+      "works": [],
       "bio": [
-        "Maria Lorenzo makes paintings that behave like weather — accumulating, eroding, and settling into surfaces that seem to hold time. Working in thin layers of oil and cold wax, she builds and scrapes back fields of color until a quiet image emerges from the residue.",
-        "Her recent body of work, Afterlight, considers memory and place: the way a room remembers light long after the sun has moved. Lorenzo has exhibited across the United States and Mexico, and her work is held in private and institutional collections internationally."
+        "Peter Saul (b. 1934, San Francisco, California) is an American painter known for his bold, satirical works that challenge politics, popular culture, and art history. He studied at the California School of Fine Arts in San Francisco and the Washington University School of Fine Arts in St. Louis. Over a career spanning more than six decades, Saul has been the subject of major retrospectives, including Peter Saul: Crime and Punishment at the New Museum in New York (2020) and Peter Saul: Pop, Funk, Bad Painting, and More at Les Abattoirs in Toulouse (2019). His work has been exhibited internationally and is held in the permanent collections of leading institutions, including the Metropolitan Museum of Art, the Museum of Modern Art, the Whitney Museum of American Art, the Art Institute of Chicago, and the Centre Georges Pompidou. Saul has received numerous honors, including a Guggenheim Fellowship (1993), the Artist's Foundation Legacy Award (2008), and election to the American Academy of Arts and Letters (2010). He lives and works in New York City and Germantown, New York."
       ],
       "catalogue": "afterlight",
       "born": "b. 1934, San Francisco",
       "name": "Peter Saul",
       "slug": "peter-saul",
-      "portraitSeed": "p-maria",
+      "portraitSeed": "p-saul",
       "featured": false,
       "discipline": "Painting",
       "based": "New York City, NY",
@@ -74,395 +30,146 @@
       }
     },
     {
-      "works": [
-        {
-          "title": "Standard (Upright)",
-          "year": 2024,
-          "medium": "Salvaged wood, plaster, steel",
-          "dim": "84 × 22 × 18 in",
-          "seed": "w-jason-1"
-        },
-        {
-          "title": "Field Note",
-          "year": 2024,
-          "medium": "Oil and graphite on panel",
-          "dim": "40 × 30 in",
-          "seed": "w-jason-2"
-        },
-        {
-          "title": "Carrier",
-          "year": 2023,
-          "medium": "Steel and pigment",
-          "dim": "66 × 20 × 16 in",
-          "seed": "w-jason-3"
-        },
-        {
-          "title": "Untitled (Lean)",
-          "year": 2024,
-          "medium": "Plaster and wax",
-          "dim": "52 × 14 × 12 in",
-          "seed": "w-jason-4"
-        },
-        {
-          "title": "Studio Wall",
-          "year": 2023,
-          "medium": "Mixed media on canvas",
-          "dim": "48 × 60 in",
-          "seed": "w-jason-5"
-        },
-        {
-          "title": "Marker",
-          "year": 2024,
-          "medium": "Bronze, edition of 3",
-          "dim": "30 × 9 × 9 in",
-          "seed": "w-jason-6"
-        }
-      ],
+      "works": [],
       "bio": [
-        "Jason Hayes works in painting, drawing, and sculpture, exploring memory, architecture, and the poetics of everyday materials. His assemblages gather salvaged wood, plaster, and steel into upright, figure-like forms that feel both monumental and provisional.",
-        "Recent solo exhibitions include MoMA PS1 (New York), the Contemporary Arts Center, Cincinnati, and The Power Plant, Toronto. Hayes lives and works in Brooklyn."
+        "Keith Haring (1958–1990) was an American artist whose bold, graphic style and iconic imagery became synonymous with New York City's downtown art scene of the 1980s. Born in Reading, Pennsylvania, he studied at the School of Visual Arts in New York, where he gained recognition for his chalk drawings in the city's subway stations. Haring's work explored themes of love, life, social justice, and activism, with a commitment to making art accessible through public murals, collaborations, and his Pop Shop. Throughout his career, he completed more than 50 public artworks worldwide and exhibited internationally. Following his AIDS diagnosis in 1988, Haring established the Keith Haring Foundation to support AIDS organizations and children's programs, using his art to promote awareness and advocacy. Today, his work remains a defining symbol of 20th-century contemporary art and is held in major museum collections around the world."
       ],
       "catalogue": "new-works-hayes",
-      "born": "b. 1982, Brooklyn",
-      "name": "Jason Hayes",
-      "slug": "jason-hayes",
-      "portraitSeed": "p-jason",
-      "featured": true,
-      "discipline": "Sculpture & Painting",
+      "born": "b. 1958",
+      "name": "Keith Haring",
+      "slug": "keith-haring",
+      "portraitSeed": "k-haring",
+      "featured": false,
+      "discipline": "Painting",
       "based": "Brooklyn, NY",
       "currentShow": {
-        "title": "New Works",
-        "dates": "Opens July 20, 2024",
-        "status": "Upcoming"
+        "title": "",
+        "dates": "",
+        "status": ""
       }
     },
     {
-      "works": [
-        {
-          "title": "Interlude (One)",
-          "year": 2023,
-          "medium": "Paper, pigment, thread",
-          "dim": "30 × 22 in",
-          "seed": "w-eliza-1"
-        },
-        {
-          "title": "Mending",
-          "year": 2023,
-          "medium": "Collage and stitch on paper",
-          "dim": "24 × 18 in",
-          "seed": "w-eliza-2"
-        },
-        {
-          "title": "Soft Index",
-          "year": 2022,
-          "medium": "Mixed media on paper",
-          "dim": "20 × 16 in",
-          "seed": "w-eliza-3"
-        },
-        {
-          "title": "Folded Light",
-          "year": 2023,
-          "medium": "Paper and pigment",
-          "dim": "28 × 20 in",
-          "seed": "w-eliza-4"
-        },
-        {
-          "title": "Quiet Seam",
-          "year": 2023,
-          "medium": "Thread on dyed paper",
-          "dim": "22 × 17 in",
-          "seed": "w-eliza-5"
-        },
-        {
-          "title": "Interlude (Six)",
-          "year": 2024,
-          "medium": "Paper, pigment, thread",
-          "dim": "32 × 24 in",
-          "seed": "w-eliza-6"
-        }
-      ],
+      "works": [],
       "bio": [
-        "Eliza Fenley assembles paper, pigment, and thread into quiet, layered compositions. Drawing on collage, drawing, and textile traditions, she treats the page as a site of accumulation — stitched, torn, and re-joined.",
-        "Her work has been shown in group exhibitions throughout the Northeast and is included in the gallery's program of artists working across painting, sculpture, and mixed media."
+        "Takashi Murakami (b. 1962, Tokyo, Japan) is one of the most influential contemporary Japanese artists, renowned for blending traditional Japanese art with anime, manga, pop culture, and commercial design. His vibrant paintings, sculptures, and installations explore themes of consumerism, history, and identity through recurring characters such as Mr. DOB, Kaikai, and Kiki. Murakami's work spans fine art, fashion, film, and design, reflecting his philosophy of dissolving the boundaries between high and low culture. His work has been exhibited internationally at major museums and galleries, and he continues to shape contemporary art through both his artistic practice and his production company, Kaikai Kiki."
       ],
       "catalogue": "interludes-fenley",
-      "born": "b. 1988, Portland, OR",
-      "name": "Eliza Fenley",
-      "slug": "eliza-fenley",
-      "portraitSeed": "p-eliza",
-      "featured": true,
+      "born": "b. 1962, Tokyo, Japan",
+      "name": "Takashi Murakami",
+      "slug": "takashi-murakami",
+      "portraitSeed": "t-murakami",
+      "featured": false,
+      "discipline": "Mixed Media",
+      "based": "",
+      "currentShow": null
+    },
+    {
+      "works": [],
+      "bio": [
+        "Godley Brown is the New York–based artist duo of Catherine Walsh and Marcarson, whose multidisciplinary practice transforms found and discarded materials into sculptural works, furniture, collage, and fashion. Drawing from Walsh's background in ballet and Marcarson's experience in painting and design, the duo creates tactile, immersive works that blur the boundaries between art and everyday objects. Their practice explores materiality, reuse, and craftsmanship, reimagining overlooked textiles and industrial materials into richly textured compositions that challenge conventional ideas of beauty, function, and value."
+      ],
+      "catalogue": "ground-cole",
+      "born": "",
+      "name": "Godley Brown",
+      "slug": "godley-brown",
+      "portraitSeed": "g-brown",
+      "featured": false,
       "discipline": "Mixed Media",
       "based": "Brooklyn, NY",
       "currentShow": null
     },
     {
-      "works": [
-        {
-          "title": "Ground I",
-          "year": 2023,
-          "medium": "Earth pigment on canvas",
-          "dim": "60 × 72 in",
-          "seed": "w-adrian-1"
-        },
-        {
-          "title": "Iron Field",
-          "year": 2023,
-          "medium": "Mixed media on canvas",
-          "dim": "48 × 60 in",
-          "seed": "w-adrian-2"
-        },
-        {
-          "title": "Ash Line",
-          "year": 2022,
-          "medium": "Pigment and wax on panel",
-          "dim": "40 × 40 in",
-          "seed": "w-adrian-3"
-        },
-        {
-          "title": "Clay Study",
-          "year": 2023,
-          "medium": "Earth pigment on paper",
-          "dim": "30 × 22 in",
-          "seed": "w-adrian-4"
-        },
-        {
-          "title": "Ground VI",
-          "year": 2023,
-          "medium": "Earth pigment on canvas",
-          "dim": "66 × 78 in",
-          "seed": "w-adrian-5"
-        },
-        {
-          "title": "Sediment",
-          "year": 2022,
-          "medium": "Mixed media on panel",
-          "dim": "36 × 48 in",
-          "seed": "w-adrian-6"
-        }
-      ],
+      "works": [],
       "bio": [
-        "Adrian Cole paints in earth tones drawn from the ground itself — clay, iron, ash. His large abstractions are built from horizontal sweeps that read as landscape and as pure material at once.",
-        "Cole has exhibited widely in the United States and Europe. Ground, his most recent body of work, was presented in the gallery's south room."
+        "Michel Friess (b. 1970) in Neustadt an der Weinstrasse in Germany. At an early age he was attracted to street art and was later able to make a name for himself under his label “GERMAN POP ART”.\nThe artist attaches importance to complete handwork. With his mixed technique of painting, airbrush with spray cans, hand-print, and paper collages, works are created in which the dedication and attention to detail are clearly visible and perceptible in each of his works.\nHis work has received international attention and is in some of the most important collections around the world. Friess has also been honored with many art awards and is represented by more than 30 galleries throughout Germany plus galleries in Shanghai, Austria, Spain, and now New York City."
       ],
-      "catalogue": "ground-cole",
-      "born": "b. 1975, Detroit",
-      "name": "Adrian Cole",
-      "slug": "adrian-cole",
-      "portraitSeed": "p-adrian",
+      "catalogue": "michel-friess",
+      "born": "b. 1970, Neustadt an der Weinstrasse, Germany",
+      "name": "Michel Friess",
+      "slug": "michel-friess",
+      "portraitSeed": "m-friess",
       "featured": false,
-      "discipline": "Painting",
-      "based": "Brooklyn, NY",
+      "discipline": "Mixed Media",
+      "based": "",
       "currentShow": null
     },
     {
-      "works": [
-        {
-          "title": "Tideline I",
-          "year": 2022,
-          "medium": "Acrylic and woven cotton",
-          "dim": "54 × 48 in",
-          "seed": "w-nadia-1"
-        },
-        {
-          "title": "Low Water",
-          "year": 2022,
-          "medium": "Pigment on linen",
-          "dim": "44 × 40 in",
-          "seed": "w-nadia-2"
-        },
-        {
-          "title": "Weave (Salt)",
-          "year": 2021,
-          "medium": "Cotton, dye, pigment",
-          "dim": "36 × 30 in",
-          "seed": "w-nadia-3"
-        },
-        {
-          "title": "Shore Index",
-          "year": 2022,
-          "medium": "Mixed media on canvas",
-          "dim": "48 × 60 in",
-          "seed": "w-nadia-4"
-        },
-        {
-          "title": "Tideline IX",
-          "year": 2022,
-          "medium": "Acrylic and woven cotton",
-          "dim": "60 × 52 in",
-          "seed": "w-nadia-5"
-        },
-        {
-          "title": "Estuary",
-          "year": 2021,
-          "medium": "Dye and thread on linen",
-          "dim": "40 × 34 in",
-          "seed": "w-nadia-6"
-        }
-      ],
+      "works": [],
       "bio": [
-        "Nadia Okafor weaves painting and textile into hybrid works where pigment meets thread. Her Tideline series follows the meeting of water and shore as both subject and method — washes that pool, recede, and leave their mark.",
-        "Okafor's work has been exhibited internationally and is represented in several public collections. She lives and works in Brooklyn."
-      ],
-      "catalogue": "tideline-okafor",
-      "born": "b. 1990, Lagos",
-      "name": "Nadia Okafor",
-      "slug": "nadia-okafor",
-      "portraitSeed": "p-nadia",
-      "featured": false,
-      "discipline": "Painting & Textile",
-      "based": "Brooklyn, NY",
-      "currentShow": null
-    },
-    {
-      "works": [
-        {
-          "title": "Quiet Room I",
-          "year": 2022,
-          "medium": "Oil on linen",
-          "dim": "40 × 32 in",
-          "seed": "w-felix-1"
-        },
-        {
-          "title": "Window, Afternoon",
-          "year": 2022,
-          "medium": "Oil on panel",
-          "dim": "30 × 24 in",
-          "seed": "w-felix-2"
-        },
-        {
-          "title": "Two Bowls",
-          "year": 2021,
-          "medium": "Oil on linen",
-          "dim": "24 × 30 in",
-          "seed": "w-felix-3"
-        },
-        {
-          "title": "Chair (Empty)",
-          "year": 2022,
-          "medium": "Oil on panel",
-          "dim": "36 × 28 in",
-          "seed": "w-felix-4"
-        },
-        {
-          "title": "Shadow Study",
-          "year": 2021,
-          "medium": "Oil on linen",
-          "dim": "20 × 16 in",
-          "seed": "w-felix-5"
-        },
-        {
-          "title": "Quiet Room VIII",
-          "year": 2022,
-          "medium": "Oil on linen",
-          "dim": "44 × 36 in",
-          "seed": "w-felix-6"
-        }
-      ],
-      "bio": [
-        "Felix Bauer paints spare interiors and still lifes that hold the viewer in a kind of held breath. A single chair, a window, a bowl of light — his subjects are ordinary, his attention is not.",
-        "Bauer trained in Leipzig and now works in Brooklyn. Quiet Room, his recent series, was the subject of an intimate publication produced by the gallery."
+        "Alex Silver is an American photographer whose work explores the divine feminine through intimate, fine art portraiture that emphasizes elegance, grace, and emotional connection. A graduate of NYU Tisch School of the Arts, his photographs have been exhibited internationally in Paris, London, New York, Miami, Rome, Athens, and Glasgow, and are held in private collections. After studying fashion in Rome in 2023, Silver expanded his practice into editorial and commercial photography. Based in Colorado, he works internationally and is also the founder of Equilibrium Retreats, a wellness initiative focused on sustainable, off-grid retreats that promote holistic living and harmony with nature."
       ],
       "catalogue": "quiet-room-bauer",
-      "born": "b. 1984, Leipzig",
-      "name": "Felix Bauer",
-      "slug": "felix-bauer",
-      "portraitSeed": "p-felix",
+      "born": "",
+      "name": "Alex Silver",
+      "slug": "alex-silver",
+      "portraitSeed": "a-silver",
       "featured": false,
-      "discipline": "Painting",
-      "based": "Brooklyn, NY",
+      "discipline": "Photography",
+      "based": "Colorado",
       "currentShow": null
+    },
+    {
+      "featured": false,
+      "slug": "TJ-Roszko",
+      "name": "TJ Roszko",
+      "born": "b. 2002, New York",
+      "based": "New York",
+      "discipline": "Mixed Media",
+      "bio": [
+        "TJ Roszko (b. 2002, New York) is an American contemporary artist whose practice explores mental health, identity, and the complexities of human experience. Working through large-scale abstraction, he builds his paintings through layering, erasure, and reconstruction, creating compositions that balance order and disruption while seeking tranquility within chaos. Living with obsessive-compulsive disorder, Roszko uses painting to challenge rigidity and embrace uncertainty, transforming instinctive gestures into acts of acceptance and possibility. His exploration of sexuality and identity further informs the layered nature of his work, reflecting the evolving and often unknowable dimensions of the self."
+      ]
+    },
+    {
+      "featured": false,
+      "slug": "Cathryn-czudej",
+      "name": "Cathryn Czudej",
+      "born": "b. 1985, South Africa ",
+      "based": "New York",
+      "discipline": "Mixed Media ",
+      "bio": [
+        "Catharine Czudej (Johannesburg, South Africa, 1985) lives and works in New York, USA. She holds a BFA from from New York University, New York and a MFA from University of California, Los Angeles. \nCzudej’s work has been the subject of international exhibitions, most recently at von ammon co, Washington DC; Benevento, Los Angeles; Kölnischer Kunstverein, Cologne and Office Baroque, Brussels. Institutional presentations include Fürstenberg Zeitgenössisch, Donaueschingen; Arsenal, Toronto and Irvine Fine Arts Center, Irvine, among others."
+      ]
+    },
+    {
+      "featured": false,
+      "slug": "Michael-hafftka",
+      "name": "Michael Hafftka ",
+      "born": "b. 153, New York City, NY",
+      "bio": [
+        "Michael Hafftka (b. 1953, New York City) is an American painter whose deeply expressive work explores memory, history, spirituality, and the human condition. Born to Holocaust survivor parents, Hafftka's personal history has profoundly shaped his artistic practice. His work is held in the permanent collections of major institutions including the Metropolitan Museum of Art, the Museum of Modern Art, the Brooklyn Museum, the San Francisco Museum of Modern Art, the Carnegie Museum of Art, and the National Gallery of Art. His career has been marked by major solo exhibitions and retrospectives, including presentations at the Museum of Modern Art, the Housatonic Museum of Art, and the Yeshiva University Museum. In recent years, Hafftka has also become a leading figure in the digital art community while continuing to collaborate with poets and writers on interdisciplinary projects."
+      ]
+    },
+    {
+      "featured": false,
+      "slug": "ryszard-semko ",
+      "name": "Ryszard Semko",
+      "bio": [
+        "Ryszard Semko's artistic journey has been a profound exploration of his inner self, shaped by personal hardship and the life-changing experience of relocating to New York City from Poland as a political refugee. This new reality brought feelings of isolation and nostalgia, which he confronted and explored through his art. His early focus on self-portraits became an ongoing dialogue with his inner emotions, with each painting reflecting his psychological and emotional state. By 2010, however, he found himself mentally and emotionally exhausted, leading him to step away from portraiture.\n\nIn 2012, Semko turned to monotype printmaking, creating unique landscapes that opened new possibilities for intuitive self-expression. As he developed this practice, he embraced the freedom and spontaneity of the medium. In 2023, he returned to self-portraiture with a new series that revisited the shadows of his past. Through these works, he discovered that certain experiences remain permanently etched into his life, serving as enduring reminders of the defining moments that continue to shape his artistic vision."
+      ],
+      "based": "New York City, NY",
+      "discipline": "Paintin "
+    },
+    {
+      "featured": false,
+      "slug": "Jean-Michel-Basquiat",
+      "name": "Jean-Michel Basquiat",
+      "born": "b. 1960, Brooklyn, NY",
+      "based": "New York City, NY",
+      "discipline": "Painting ",
+      "bio": [
+        "Jean-Michel Basquiat (1960–1988) was an American artist born in Brooklyn to Haitian and Puerto Rican parents. Emerging from New York City's graffiti scene under the tag SAMO, he rose to prominence in the early 1980s with expressive paintings that fused text, symbols, and imagery inspired by jazz, history, literature, and popular culture. Throughout his career, Basquiat confronted racism, inequality, and the art world's commodification of Black artists while celebrating Black history, identity, and cultural traditions. Before his death at age twenty-seven, he produced an extraordinary body of work whose layered compositions and powerful social commentary continue to shape contemporary art and conversations surrounding race, identity, and power."
+      ]
+    },
+    {
+      "featured": false,
+      "slug": "vitaliy-frankiv ",
+      "name": "Vitaliy Frankiv ",
+      "based": "New York City, NY",
+      "discipline": "Painting ",
+      "bio": [
+        "Vitaliy Frankiv is a Ukrainian American abstract artist based in New York City. His artistic journey began with graffiti and urban exploration during his early teenage years. Those formative experiences offered him a glimpse of what it meant to be not only an artist, but also a sovereign human being. Experimenting with spray paint, bucket paint, and breathtaking landscapes profoundly shaped his creative path. Above all, it was color that captivated him. The first time he combined spray paint with canvas, he experienced a creative awakening. He could spend hours tracing every color across a painting, observing how each hue flowed into another to create something far greater than the sum of its parts.\n\nFrankiv creates original abstract paintings defined by distinctive color combinations, layered patterns, and rich textures. Every work is entirely unique and cannot be replicated; no two paintings are ever identical. This individuality lies at the heart of his practice. Every splash of paint is intentional, deeply personal, and thoughtfully placed. The longer a viewer engages with his work, the more its complexity reveals itself. What may first appear chaotic gradually transforms into something harmonious, vibrant, mystical, and expressive. He is particularly drawn to pairing colors that might traditionally seem incompatible, bringing them together in unexpected balance.\n\nAt the core of Frankiv's practice is the desire to create paintings that are cherished, respected, and celebrated around the world—not only in galleries or on empty walls, but within homes where they become meaningful parts of everyday life. His works are intended to be more than decorative objects; they serve as lasting reminders of personal moments, emotions, and connections. Collecting one of his paintings is an investment not only in art, but also in one's space, perspective, and relationship to the energy embodied within each piece. His goal is to enrich both the environments his paintings inhabit and the lives of those who live with them. Seeing his work become part of someone's daily experience, extending beyond aesthetics into personal meaning, brings him profound purpose and joy.\n\nFor those who feel an immediate connection to one of his paintings, Frankiv believes that instinct should be trusted. If a piece speaks to someone, it has already found its home."
+      ]
     }
   ],
-  "catalogues": [
-    {
-      "pages": 96,
-      "artist": "Maria Lorenzo",
-      "price": "$45",
-      "dimensions": "9 × 11 in",
-      "seed": "cat-afterlight",
-      "dark": false,
-      "cover": "linen",
-      "title": "Afterlight",
-      "id": "afterlight",
-      "description": "Published on the occasion of Maria Lorenzo's exhibition Afterlight, this monograph gathers a new body of paintings alongside an essay on memory, surface, and the slow work of transformation.",
-      "year": 2024,
-      "essay": "Thomas McEvilley",
-      "edition": "Edition of 800"
-    },
-    {
-      "pages": 72,
-      "artist": "Jason Hayes",
-      "price": "$40",
-      "dimensions": "8.5 × 10.5 in",
-      "seed": "cat-hayes",
-      "dark": true,
-      "cover": "stone",
-      "title": "New Works",
-      "id": "new-works-hayes",
-      "description": "Sculpture and works on paper from Jason Hayes, documenting an ongoing inquiry into the poetics of everyday materials and the architecture of the studio.",
-      "year": 2024,
-      "essay": "Dana Whitman",
-      "edition": "Edition of 600"
-    },
-    {
-      "pages": 64,
-      "artist": "Eliza Fenley",
-      "price": "$38",
-      "dimensions": "8 × 10 in",
-      "seed": "cat-fenley",
-      "dark": false,
-      "cover": "cream",
-      "title": "Interludes",
-      "id": "interludes-fenley",
-      "description": "A focused survey of Eliza Fenley's mixed-media practice — paper, pigment, and thread — produced for her first solo presentation with the gallery.",
-      "year": 2023,
-      "essay": "Robin Kessler",
-      "edition": "Edition of 500"
-    },
-    {
-      "pages": 80,
-      "artist": "Adrian Cole",
-      "price": "$42",
-      "dimensions": "9 × 11 in",
-      "seed": "cat-cole",
-      "dark": true,
-      "cover": "stone",
-      "title": "Ground",
-      "id": "ground-cole",
-      "description": "Adrian Cole's earth-toned abstractions are collected here for the first time, with installation views from the gallery's south room and a conversation with the artist.",
-      "year": 2023,
-      "essay": "Marcus Reidel",
-      "edition": "Edition of 550"
-    },
-    {
-      "pages": 88,
-      "artist": "Nadia Okafor",
-      "price": "$44",
-      "dimensions": "8.5 × 11 in",
-      "seed": "cat-okafor",
-      "dark": false,
-      "cover": "linen",
-      "title": "Tideline",
-      "id": "tideline-okafor",
-      "description": "Painting and textile works by Nadia Okafor, tracing the meeting points of water, weave, and light across two years of studio practice in Brooklyn.",
-      "year": 2022,
-      "essay": "Priya Nair",
-      "edition": "Edition of 700"
-    },
-    {
-      "pages": 60,
-      "artist": "Felix Bauer",
-      "price": "$36",
-      "dimensions": "8 × 10 in",
-      "seed": "cat-bauer",
-      "dark": false,
-      "cover": "cream",
-      "title": "Quiet Room",
-      "id": "quiet-room-bauer",
-      "description": "Felix Bauer's spare interiors and still lifes, gathered into an intimate volume that lingers on stillness, shadow, and the ordinary object.",
-      "year": 2022,
-      "essay": "Lena Hofmann",
-      "edition": "Edition of 450"
-    }
-  ]
+  "catalogues": []
 }
