@@ -170,8 +170,22 @@
     <span class="footer-swatch" aria-hidden="true"></span>
   </footer>
 
-  <script src="js/art.js"></script>
-  <script src="js/data.js"></script>
-  <script src="js/main.js"></script>
+ <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user && window.location.hash.includes("recovery_token")) {
+        window.netlifyIdentity.open("recovery");
+      }
+      if (!user && window.location.hash.includes("confirmation_token")) {
+        window.netlifyIdentity.open("signup");
+      }
+    });
+  }
+</script>
+
+<script src="js/art.js"></script>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
 </body>
 </html>
