@@ -24,9 +24,9 @@
       "discipline": "Painting",
       "based": "New York City, NY",
       "currentShow": {
-        "title": "Afterlight",
-        "dates": "May 24 — July 13, 2024",
-        "status": "Now on view"
+        "title": "",
+        "dates": "",
+        "status": ""
       },
       "portrait": "/assets/uploads/peter-saul.jpg"
     },
