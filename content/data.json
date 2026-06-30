@@ -11,23 +11,6 @@
   },
   "artists": [
     {
-      "slug": "maria-lorenzo",
-      "name": "Maria Lorenzo",
-      "born": "b. 1979, Mexico City",
-      "based": "Brooklyn, NY",
-      "discipline": "Painting",
-      "featured": true,
-      "portraitSeed": "p-maria",
-      "catalogue": "afterlight",
-      "currentShow": {
-        "title": "Afterlight",
-        "dates": "May 24 — July 13, 2024",
-        "status": "Now on view"
-      },
-      "bio": [
-        "Maria Lorenzo makes paintings that behave like weather — accumulating, eroding, and settling into surfaces that seem to hold time. Working in thin layers of oil and cold wax, she builds and scrapes back fields of color until a quiet image emerges from the residue.",
-        "Her recent body of work, Afterlight, considers memory and place: the way a room remembers light long after the sun has moved. Lorenzo has exhibited across the United States and Mexico, and her work is held in private and institutional collections internationally."
-      ],
       "works": [
         {
           "title": "Afterlight I",
@@ -71,26 +54,26 @@
           "dim": "72 × 60 in",
           "seed": "w-maria-6"
         }
-      ]
+      ],
+      "bio": [
+        "Maria Lorenzo makes paintings that behave like weather — accumulating, eroding, and settling into surfaces that seem to hold time. Working in thin layers of oil and cold wax, she builds and scrapes back fields of color until a quiet image emerges from the residue.",
+        "Her recent body of work, Afterlight, considers memory and place: the way a room remembers light long after the sun has moved. Lorenzo has exhibited across the United States and Mexico, and her work is held in private and institutional collections internationally."
+      ],
+      "catalogue": "afterlight",
+      "born": "b. 1934, San Francisco",
+      "name": "Peter Saul",
+      "slug": "peter-saul",
+      "portraitSeed": "p-maria",
+      "featured": false,
+      "discipline": "Painting",
+      "based": "New York City, NY",
+      "currentShow": {
+        "title": "Afterlight",
+        "dates": "May 24 — July 13, 2024",
+        "status": "Now on view"
+      }
     },
     {
-      "slug": "jason-hayes",
-      "name": "Jason Hayes",
-      "born": "b. 1982, Brooklyn",
-      "based": "Brooklyn, NY",
-      "discipline": "Sculpture & Painting",
-      "featured": true,
-      "portraitSeed": "p-jason",
-      "catalogue": "new-works-hayes",
-      "currentShow": {
-        "title": "New Works",
-        "dates": "Opens July 20, 2024",
-        "status": "Upcoming"
-      },
-      "bio": [
-        "Jason Hayes works in painting, drawing, and sculpture, exploring memory, architecture, and the poetics of everyday materials. His assemblages gather salvaged wood, plaster, and steel into upright, figure-like forms that feel both monumental and provisional.",
-        "Recent solo exhibitions include MoMA PS1 (New York), the Contemporary Arts Center, Cincinnati, and The Power Plant, Toronto. Hayes lives and works in Brooklyn."
-      ],
       "works": [
         {
           "title": "Standard (Upright)",
@@ -134,22 +117,26 @@
           "dim": "30 × 9 × 9 in",
           "seed": "w-jason-6"
         }
-      ]
+      ],
+      "bio": [
+        "Jason Hayes works in painting, drawing, and sculpture, exploring memory, architecture, and the poetics of everyday materials. His assemblages gather salvaged wood, plaster, and steel into upright, figure-like forms that feel both monumental and provisional.",
+        "Recent solo exhibitions include MoMA PS1 (New York), the Contemporary Arts Center, Cincinnati, and The Power Plant, Toronto. Hayes lives and works in Brooklyn."
+      ],
+      "catalogue": "new-works-hayes",
+      "born": "b. 1982, Brooklyn",
+      "name": "Jason Hayes",
+      "slug": "jason-hayes",
+      "portraitSeed": "p-jason",
+      "featured": true,
+      "discipline": "Sculpture & Painting",
+      "based": "Brooklyn, NY",
+      "currentShow": {
+        "title": "New Works",
+        "dates": "Opens July 20, 2024",
+        "status": "Upcoming"
+      }
     },
     {
-      "slug": "eliza-fenley",
-      "name": "Eliza Fenley",
-      "born": "b. 1988, Portland, OR",
-      "based": "Brooklyn, NY",
-      "discipline": "Mixed Media",
-      "featured": true,
-      "portraitSeed": "p-eliza",
-      "catalogue": "interludes-fenley",
-      "currentShow": null,
-      "bio": [
-        "Eliza Fenley assembles paper, pigment, and thread into quiet, layered compositions. Drawing on collage, drawing, and textile traditions, she treats the page as a site of accumulation — stitched, torn, and re-joined.",
-        "Her work has been shown in group exhibitions throughout the Northeast and is included in the gallery's program of artists working across painting, sculpture, and mixed media."
-      ],
       "works": [
         {
           "title": "Interlude (One)",
@@ -193,22 +180,22 @@
           "dim": "32 × 24 in",
           "seed": "w-eliza-6"
         }
-      ]
+      ],
+      "bio": [
+        "Eliza Fenley assembles paper, pigment, and thread into quiet, layered compositions. Drawing on collage, drawing, and textile traditions, she treats the page as a site of accumulation — stitched, torn, and re-joined.",
+        "Her work has been shown in group exhibitions throughout the Northeast and is included in the gallery's program of artists working across painting, sculpture, and mixed media."
+      ],
+      "catalogue": "interludes-fenley",
+      "born": "b. 1988, Portland, OR",
+      "name": "Eliza Fenley",
+      "slug": "eliza-fenley",
+      "portraitSeed": "p-eliza",
+      "featured": true,
+      "discipline": "Mixed Media",
+      "based": "Brooklyn, NY",
+      "currentShow": null
     },
     {
-      "slug": "adrian-cole",
-      "name": "Adrian Cole",
-      "born": "b. 1975, Detroit",
-      "based": "Brooklyn, NY",
-      "discipline": "Painting",
-      "featured": false,
-      "portraitSeed": "p-adrian",
-      "catalogue": "ground-cole",
-      "currentShow": null,
-      "bio": [
-        "Adrian Cole paints in earth tones drawn from the ground itself — clay, iron, ash. His large abstractions are built from horizontal sweeps that read as landscape and as pure material at once.",
-        "Cole has exhibited widely in the United States and Europe. Ground, his most recent body of work, was presented in the gallery's south room."
-      ],
       "works": [
         {
           "title": "Ground I",
@@ -252,22 +239,22 @@
           "dim": "36 × 48 in",
           "seed": "w-adrian-6"
         }
-      ]
+      ],
+      "bio": [
+        "Adrian Cole paints in earth tones drawn from the ground itself — clay, iron, ash. His large abstractions are built from horizontal sweeps that read as landscape and as pure material at once.",
+        "Cole has exhibited widely in the United States and Europe. Ground, his most recent body of work, was presented in the gallery's south room."
+      ],
+      "catalogue": "ground-cole",
+      "born": "b. 1975, Detroit",
+      "name": "Adrian Cole",
+      "slug": "adrian-cole",
+      "portraitSeed": "p-adrian",
+      "featured": false,
+      "discipline": "Painting",
+      "based": "Brooklyn, NY",
+      "currentShow": null
     },
     {
-      "slug": "nadia-okafor",
-      "name": "Nadia Okafor",
-      "born": "b. 1990, Lagos",
-      "based": "Brooklyn, NY",
-      "discipline": "Painting & Textile",
-      "featured": false,
-      "portraitSeed": "p-nadia",
-      "catalogue": "tideline-okafor",
-      "currentShow": null,
-      "bio": [
-        "Nadia Okafor weaves painting and textile into hybrid works where pigment meets thread. Her Tideline series follows the meeting of water and shore as both subject and method — washes that pool, recede, and leave their mark.",
-        "Okafor's work has been exhibited internationally and is represented in several public collections. She lives and works in Brooklyn."
-      ],
       "works": [
         {
           "title": "Tideline I",
@@ -311,22 +298,22 @@
           "dim": "40 × 34 in",
           "seed": "w-nadia-6"
         }
-      ]
+      ],
+      "bio": [
+        "Nadia Okafor weaves painting and textile into hybrid works where pigment meets thread. Her Tideline series follows the meeting of water and shore as both subject and method — washes that pool, recede, and leave their mark.",
+        "Okafor's work has been exhibited internationally and is represented in several public collections. She lives and works in Brooklyn."
+      ],
+      "catalogue": "tideline-okafor",
+      "born": "b. 1990, Lagos",
+      "name": "Nadia Okafor",
+      "slug": "nadia-okafor",
+      "portraitSeed": "p-nadia",
+      "featured": false,
+      "discipline": "Painting & Textile",
+      "based": "Brooklyn, NY",
+      "currentShow": null
     },
     {
-      "slug": "felix-bauer",
-      "name": "Felix Bauer",
-      "born": "b. 1984, Leipzig",
-      "based": "Brooklyn, NY",
-      "discipline": "Painting",
-      "featured": false,
-      "portraitSeed": "p-felix",
-      "catalogue": "quiet-room-bauer",
-      "currentShow": null,
-      "bio": [
-        "Felix Bauer paints spare interiors and still lifes that hold the viewer in a kind of held breath. A single chair, a window, a bowl of light — his subjects are ordinary, his attention is not.",
-        "Bauer trained in Leipzig and now works in Brooklyn. Quiet Room, his recent series, was the subject of an intimate publication produced by the gallery."
-      ],
       "works": [
         {
           "title": "Quiet Room I",
@@ -370,99 +357,112 @@
           "dim": "44 × 36 in",
           "seed": "w-felix-6"
         }
-      ]
+      ],
+      "bio": [
+        "Felix Bauer paints spare interiors and still lifes that hold the viewer in a kind of held breath. A single chair, a window, a bowl of light — his subjects are ordinary, his attention is not.",
+        "Bauer trained in Leipzig and now works in Brooklyn. Quiet Room, his recent series, was the subject of an intimate publication produced by the gallery."
+      ],
+      "catalogue": "quiet-room-bauer",
+      "born": "b. 1984, Leipzig",
+      "name": "Felix Bauer",
+      "slug": "felix-bauer",
+      "portraitSeed": "p-felix",
+      "featured": false,
+      "discipline": "Painting",
+      "based": "Brooklyn, NY",
+      "currentShow": null
     }
   ],
   "catalogues": [
     {
-      "id": "afterlight",
-      "title": "Afterlight",
-      "artist": "Maria Lorenzo",
-      "year": 2024,
-      "essay": "Thomas McEvilley",
       "pages": 96,
-      "cover": "linen",
-      "dimensions": "9 × 11 in",
-      "edition": "Edition of 800",
+      "artist": "Maria Lorenzo",
       "price": "$45",
+      "dimensions": "9 × 11 in",
       "seed": "cat-afterlight",
       "dark": false,
-      "description": "Published on the occasion of Maria Lorenzo's exhibition Afterlight, this monograph gathers a new body of paintings alongside an essay on memory, surface, and the slow work of transformation."
+      "cover": "linen",
+      "title": "Afterlight",
+      "id": "afterlight",
+      "description": "Published on the occasion of Maria Lorenzo's exhibition Afterlight, this monograph gathers a new body of paintings alongside an essay on memory, surface, and the slow work of transformation.",
+      "year": 2024,
+      "essay": "Thomas McEvilley",
+      "edition": "Edition of 800"
     },
     {
-      "id": "new-works-hayes",
-      "title": "New Works",
-      "artist": "Jason Hayes",
-      "year": 2024,
-      "essay": "Dana Whitman",
       "pages": 72,
-      "cover": "stone",
-      "dimensions": "8.5 × 10.5 in",
-      "edition": "Edition of 600",
+      "artist": "Jason Hayes",
       "price": "$40",
+      "dimensions": "8.5 × 10.5 in",
       "seed": "cat-hayes",
       "dark": true,
-      "description": "Sculpture and works on paper from Jason Hayes, documenting an ongoing inquiry into the poetics of everyday materials and the architecture of the studio."
+      "cover": "stone",
+      "title": "New Works",
+      "id": "new-works-hayes",
+      "description": "Sculpture and works on paper from Jason Hayes, documenting an ongoing inquiry into the poetics of everyday materials and the architecture of the studio.",
+      "year": 2024,
+      "essay": "Dana Whitman",
+      "edition": "Edition of 600"
     },
     {
-      "id": "interludes-fenley",
-      "title": "Interludes",
-      "artist": "Eliza Fenley",
-      "year": 2023,
-      "essay": "Robin Kessler",
       "pages": 64,
-      "cover": "cream",
-      "dimensions": "8 × 10 in",
-      "edition": "Edition of 500",
+      "artist": "Eliza Fenley",
       "price": "$38",
+      "dimensions": "8 × 10 in",
       "seed": "cat-fenley",
       "dark": false,
-      "description": "A focused survey of Eliza Fenley's mixed-media practice — paper, pigment, and thread — produced for her first solo presentation with the gallery."
+      "cover": "cream",
+      "title": "Interludes",
+      "id": "interludes-fenley",
+      "description": "A focused survey of Eliza Fenley's mixed-media practice — paper, pigment, and thread — produced for her first solo presentation with the gallery.",
+      "year": 2023,
+      "essay": "Robin Kessler",
+      "edition": "Edition of 500"
     },
     {
-      "id": "ground-cole",
-      "title": "Ground",
-      "artist": "Adrian Cole",
-      "year": 2023,
-      "essay": "Marcus Reidel",
       "pages": 80,
-      "cover": "stone",
-      "dimensions": "9 × 11 in",
-      "edition": "Edition of 550",
+      "artist": "Adrian Cole",
       "price": "$42",
+      "dimensions": "9 × 11 in",
       "seed": "cat-cole",
       "dark": true,
-      "description": "Adrian Cole's earth-toned abstractions are collected here for the first time, with installation views from the gallery's south room and a conversation with the artist."
+      "cover": "stone",
+      "title": "Ground",
+      "id": "ground-cole",
+      "description": "Adrian Cole's earth-toned abstractions are collected here for the first time, with installation views from the gallery's south room and a conversation with the artist.",
+      "year": 2023,
+      "essay": "Marcus Reidel",
+      "edition": "Edition of 550"
     },
     {
-      "id": "tideline-okafor",
-      "title": "Tideline",
-      "artist": "Nadia Okafor",
-      "year": 2022,
-      "essay": "Priya Nair",
       "pages": 88,
-      "cover": "linen",
-      "dimensions": "8.5 × 11 in",
-      "edition": "Edition of 700",
+      "artist": "Nadia Okafor",
       "price": "$44",
+      "dimensions": "8.5 × 11 in",
       "seed": "cat-okafor",
       "dark": false,
-      "description": "Painting and textile works by Nadia Okafor, tracing the meeting points of water, weave, and light across two years of studio practice in Brooklyn."
+      "cover": "linen",
+      "title": "Tideline",
+      "id": "tideline-okafor",
+      "description": "Painting and textile works by Nadia Okafor, tracing the meeting points of water, weave, and light across two years of studio practice in Brooklyn.",
+      "year": 2022,
+      "essay": "Priya Nair",
+      "edition": "Edition of 700"
     },
     {
-      "id": "quiet-room-bauer",
-      "title": "Quiet Room",
-      "artist": "Felix Bauer",
-      "year": 2022,
-      "essay": "Lena Hofmann",
       "pages": 60,
-      "cover": "cream",
-      "dimensions": "8 × 10 in",
-      "edition": "Edition of 450",
+      "artist": "Felix Bauer",
       "price": "$36",
+      "dimensions": "8 × 10 in",
       "seed": "cat-bauer",
       "dark": false,
-      "description": "Felix Bauer's spare interiors and still lifes, gathered into an intimate volume that lingers on stillness, shadow, and the ordinary object."
+      "cover": "cream",
+      "title": "Quiet Room",
+      "id": "quiet-room-bauer",
+      "description": "Felix Bauer's spare interiors and still lifes, gathered into an intimate volume that lingers on stillness, shadow, and the ordinary object.",
+      "year": 2022,
+      "essay": "Lena Hofmann",
+      "edition": "Edition of 450"
     }
   ]
 }
