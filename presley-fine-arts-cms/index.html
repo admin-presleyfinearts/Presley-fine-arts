@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Presley Fine Arts — Contemporary Art Gallery · Brooklyn</title>
+  <meta name="description" content="Presley Fine Arts is a contemporary art gallery at The Grand Bedford, 165 Bedford Ave, Brooklyn. A space for contemporary art, conversation, and connection." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@300;400;500;600&family=Caveat:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body data-page="home">
+
+  <!-- ============== HEADER ============== -->
+  <header class="site-header">
+    <nav class="wrap nav" aria-label="Primary">
+      <a class="brand-mark" href="index.html" aria-label="Presley Fine Arts home">
+        <span class="monogram">PFA</span>
+      </a>
+      <button class="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a data-nav="exhibitions" href="index.html#now-on-view">Exhibitions</a>
+        <a data-nav="artists" href="artists.html">Artists</a>
+        <a data-nav="catalogue" href="catalogue.html">Catalogue</a>
+        <a data-nav="about" href="index.html#about">About</a>
+        <a data-nav="contact" href="contact.html">Contact</a>
+      </div>
+      <div class="nav-right">
+        <span class="nav-addr">165 Bedford Ave, Brooklyn</span>
+        <a class="nav-cta" href="contact.html#visit">Plan Your Visit</a>
+      </div>
+    </nav>
+  </header>
+
+  <!-- ============== HERO ============== -->
+  <section class="hero">
+    <div class="hero__media" data-art="gallery" data-seed="pfa-hero" data-w="1600" data-h="900" aria-hidden="true"></div>
+    <div class="hero__scrim"></div>
+    <span class="hero__tab" aria-hidden="true"></span>
+    <div class="hero__inner">
+      <div class="wrap">
+        <p class="hero__loc">165 Bedford Ave, Brooklyn</p>
+        <h1 class="hero__title display">Presley<br />Fine Arts</h1>
+        <div class="hero__divider"></div>
+        <p class="hero__sub">Contemporary Art Gallery</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============== NOW ON VIEW ============== -->
+  <section class="section" id="now-on-view">
+    <div class="wrap nowview">
+      <div data-reveal>
+        <span class="eyebrow">Now on View</span>
+        <h2 class="nowview__title display">Afterlight</h2>
+        <div class="nowview__artist">Maria Lorenzo</div>
+        <div class="nowview__dates">May 24 — July 13, 2024</div>
+        <p class="nowview__body">A meditative new body of work exploring memory, place, and the quiet afterglow of transformation. Layered surfaces and subtle gestures invite us to look closer and stay a while.</p>
+        <a class="btn" href="artist.html?artist=maria-lorenzo">View Exhibition</a>
+      </div>
+
+      <div class="artframe" data-reveal>
+        <div data-art="artwork" data-seed="w-maria-1" data-w="900" data-h="640"></div>
+      </div>
+
+      <div class="note-wrap" data-reveal>
+        <div class="note">
+          <span class="note__tape" aria-hidden="true"></span>
+          <p class="note__quote">the love of art is the love of life.</p>
+          <p class="note__sig">— PFA</p>
+        </div>
+        <div class="upcoming">
+          <span class="label">Upcoming</span>
+          <div class="upcoming__name">Jason Hayes</div>
+          <div class="upcoming__meta">New Works · Opens July 20</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule" />
+
+  <!-- ============== TRIPTYCH ============== -->
+  <section class="section" id="about">
+    <div class="wrap triptych">
+      <!-- Catalogue highlights -->
+      <div class="tcol" data-reveal>
+        <div class="tcol__head">Catalogue Highlights</div>
+        <div class="bookshot" data-art="book" data-seed="cat-afterlight" data-artist="Maria Lorenzo" data-title="Afterlight"></div>
+        <p>Explore new publications and artist books that bring the work home.</p>
+        <a class="arrow-link" href="catalogue.html">Browse Catalogue <span class="arw">&rarr;</span></a>
+      </div>
+
+      <!-- Featured artists -->
+      <div class="tcol" data-reveal>
+        <div class="tcol__head">Featured Artists</div>
+        <div class="faces">
+          <a class="face" href="artist.html?artist=maria-lorenzo">
+            <div class="portrait" data-art="portrait" data-seed="p-maria" data-name="Maria Lorenzo"></div>
+            <div class="face__name">Maria Lorenzo</div>
+          </a>
+          <a class="face" href="artist.html?artist=jason-hayes">
+            <div class="portrait" data-art="portrait" data-seed="p-jason" data-name="Jason Hayes"></div>
+            <div class="face__name">Jason Hayes</div>
+          </a>
+          <a class="face" href="artist.html?artist=eliza-fenley">
+            <div class="portrait" data-art="portrait" data-seed="p-eliza" data-name="Eliza Fenley"></div>
+            <div class="face__name">Eliza Fenley</div>
+          </a>
+        </div>
+        <p>A focused program of artists working across painting, sculpture, and mixed media.</p>
+        <a class="arrow-link" href="artists.html">View Artists <span class="arw">&rarr;</span></a>
+      </div>
+
+      <!-- From the director -->
+      <div class="tcol" data-reveal>
+        <div class="tcol__head">From Zachary Presley</div>
+        <div class="director">
+          <div>
+            <p class="quote-block">&ldquo;Downtown has always been about community, curiosity, and risk. Presley Fine Arts is our invitation to keep that spirit alive.&rdquo;</p>
+            <div class="director__sig">Zachary Presley</div>
+            <div class="director__role">Founder &amp; Director</div>
+            <a class="arrow-link" href="contact.html">Our Story <span class="arw">&rarr;</span></a>
+          </div>
+          <div class="director__photo" data-art="portrait" data-seed="p-zachary" data-name="Zachary Presley"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule" />
+
+  <!-- ============== VISIT ============== -->
+  <section class="section" id="visit">
+    <div class="wrap visit">
+      <div class="visit__mosaic" data-reveal>
+        <div class="tile tile--tall" data-art="brush" data-seed="brush-1" data-w="300" data-h="600"></div>
+        <div class="tile" data-art="building" data-seed="bld-1" data-w="400" data-h="290"></div>
+        <div class="tile" data-art="artwork" data-seed="visit-int" data-w="400" data-h="290"></div>
+        <div class="tile tile--accent"><span>PFA<br />BRKLYN<br />NY</span></div>
+      </div>
+
+      <div class="visit__info" data-reveal>
+        <span class="eyebrow">Visit Us</span>
+        <h3 class="serif">Presley Fine Arts</h3>
+        <p class="visit__addr">The Grand Bedford<br />165 Bedford Ave<br />Brooklyn, NY 11211</p>
+        <p class="visit__hours">Wednesday — Sunday<br />11am — 6pm<br />and by appointment</p>
+        <a class="arrow-link" href="contact.html#visit">Plan Your Visit <span class="arw">&rarr;</span></a>
+      </div>
+
+      <div class="visit__map-wrap" data-reveal>
+        <div class="map" data-art="map" data-w="520" data-h="420" style="height:100%"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============== FOOTER ============== -->
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div class="footer-copy">© 2024 Presley Fine Arts</div>
+      <nav class="footer-nav" aria-label="Footer">
+        <a href="https://instagram.com" target="_blank" rel="noopener">Instagram</a>
+        <a href="contact.html#newsletter">Email Signup</a>
+        <a href="contact.html">Press</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <div class="footer-tag">Open to the world.</div>
+    </div>
+    <span class="footer-swatch" aria-hidden="true"></span>
+  </footer>
+
+  <script src="js/art.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
