@@ -41,8 +41,13 @@ collections:
               - { label: "Based", name: "based", widget: "string", required: false }
               - { label: "Discipline", name: "discipline", widget: "string", required: false }
               - { label: "Featured on Homepage", name: "featured", widget: "boolean", default: false, required: false }
-              - { label: "Portrait Seed", name: "portraitSeed", widget: "string", required: false, hint: "Used for generated placeholder portrait unless you later add real image support." }
-              - { label: "Catalogue ID", name: "catalogue", widget: "string", required: false, hint: "Must match a Catalogue ID below." }
+
+              - label: "Portrait"
+                  name: "portrait"
+                  widget: "image"
+                  required: false
+
+              - { label: "Catalogue ID", name: "catalogue", widget: "string", required: false }
               - label: "Current Exhibition"
                 name: "currentShow"
                 widget: "object"
